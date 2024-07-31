@@ -266,3 +266,26 @@ a {
 #a-title {
   text-decoration: none;
 }
+/* Custom Facebook button */
+.btn-facebook {
+  background-color: #3b5998;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+}
+
+.btn-facebook .icon {
+  background-image: url('../images/fb.png');
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.btn-facebook:hover {
+  background-color: #2d4373;
+}
