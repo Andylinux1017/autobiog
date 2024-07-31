@@ -270,16 +270,13 @@ a {
 /* Custom Facebook button */
 .btn-facebook {
   display: inline-block;
-  width: 60px;  /* 調整大小，可以根據需要改變 */
-  height: 60px; /* 保持與寬度相同，確保是圓形 */
-  border-radius: 100%; /* 使按鈕成為圓形 */
-  background-color: white;
-  overflow: hidden; /* 確保內容不會溢出圓形 */
-  position: relative;
-  transition: transform 0.3s ease;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* 添加輕微陰影效果 */
+  width: 60px;
+  height: 60px;
+  background-image: url('../images/fb.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
 }
-
 .btn-facebook .icon {
   width: 100%;
   height: 100%;
