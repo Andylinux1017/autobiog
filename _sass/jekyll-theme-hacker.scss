@@ -272,7 +272,8 @@ a {
   display: inline-block;
   width: 60px;  /* 調整大小，可以根據需要改變 */
   height: 60px; /* 保持與寬度相同，確保是圓形 */
-  border-radius: 50%; /* 使按鈕成為圓形 */
+  border-radius: 100%; /* 使按鈕成為圓形 */
+  background-color: white;
   overflow: hidden; /* 確保內容不會溢出圓形 */
   position: relative;
   transition: transform 0.3s ease;
