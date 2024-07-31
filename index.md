@@ -1,19 +1,19 @@
 
 
-# 歡迎來到我的個人網站
+# Welcome to my personal website
 
-## 關於我
+## about me
 ![頭貼](https://i.imgur.com/zgHJcNU.jpeg)
 
-大家好，我是郭柏霖。我是一名碩士生，對嵌入式系統充滿熱情。
+Hello everyone, my name is Bo lin Guo. I'm a master's student with a passion for embedded systems.
 
-## 我的項目
+## about project
 
-以下是我最近完成的一些項目：
+Here are some recent projects I've completed：
 
-1. [Stm32gpio](https://medium.com/%E9%96%B1%E7%9B%8A%E5%A6%82%E7%BE%8E/stm32-04-gpio-input-6ff2d6478aa) - 基礎實驗
+1. [Stm32gpio](https://medium.com/%E9%96%B1%E7%9B%8A%E5%A6%82%E7%BE%8E/stm32-04-gpio-input-6ff2d6478aa) - Basic experiment
 
-## 聯繫我
+## contact me
 
 - Email: t108c52020@ntut.org.tw
 
