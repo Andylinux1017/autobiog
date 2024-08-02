@@ -1,7 +1,7 @@
 
 
 # Welcome to my personal website
-
+layout: default
 ## about me
 ![頭貼](https://i.imgur.com/zgHJcNU.jpeg)
 
